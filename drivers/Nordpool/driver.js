@@ -4,19 +4,19 @@ const Homey = require('homey');
 
 class NordpoolDriver extends Homey.Driver {
 
-    onInit() {
-        this.log('Nordpool driver has been initialized');
-    }
+	onInit() {
+		this.log('Nordpool driver has been initialized');
+	}
 
-    onPairListDevices(data, callback) {
-        let devices = [
-            {
-                "name": "Nordpool",
-                "data": {"id": "Nordpool"}
-            }
-        ];
-        callback(null, devices);
-    }
+	onPairListDevices(data, callback) {
+		let devices = [
+			{
+				"name": "Nordpool",
+				"data": {"id": "Nordpool"}
+			}
+		];
+		callback(null, devices);
+	}
 
 }
 

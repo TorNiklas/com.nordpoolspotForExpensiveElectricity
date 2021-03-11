@@ -1,6 +1,6 @@
 {
-  "id": "com.nordpoolspot",
-  "version": "0.2.0",
+  "id": "com.nordpoolspotForExpensiveElectricity",
+  "version": "0.2.1",
   "compatibility": ">=1.5.0",
   "sdk": 2,
   "name": {
@@ -14,7 +14,7 @@
     ]
   },
   "description": {
-    "en": "Nordpool Elspot Prices for High Prices"
+    "en": "Nordpool Elspot for High Prices"
   },
   "category": [
     "tools"
@@ -206,7 +206,7 @@
               "label": {
                 "en": "Currency"
               },
-              "value": "EUR",
+              "value": "NOK",
               "values": [
                 {
                   "id": "EUR",

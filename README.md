@@ -21,6 +21,10 @@ Nordpool Elspot Prices for Athom Homey.
 
 ### Release Notes
 
+#### 0.2.1
+- Default corrency is now NOK
+- Changed the shown price to be per kWh instead of MWh
+
 #### 0.2.0
 - Now works for prices above 1 000currency/MWh
 
