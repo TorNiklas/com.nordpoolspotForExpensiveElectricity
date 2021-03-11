@@ -1,8 +1,8 @@
-This is a fork of https://github.com/balmli/com.nordpoolspot. It fixes a bug that occurs when electricity prices are above 1 000currency/MWh.
-
 # Nordpool
 
 Nordpool Elspot Prices for Athom Homey.
+
+This is a fork of https://github.com/balmli/com.nordpoolspot. It fixes a bug that occurs when electricity prices are above 1 000currency/MWh.
 
 ## Flow cards
 
@@ -22,7 +22,7 @@ Nordpool Elspot Prices for Athom Homey.
 ### Release Notes
 
 #### 0.2.1
-- Default corrency is now NOK
+- Default currency is now NOK
 - Changed the shown price to be per kWh instead of MWh
 
 #### 0.2.0
