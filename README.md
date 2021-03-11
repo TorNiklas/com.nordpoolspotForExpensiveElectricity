@@ -1,4 +1,4 @@
-This is a fork of https://github.com/balmli/com.nordpoolspot. It fixes a bug that occurs when electricity prices are above 1 000/MWh.
+This is a fork of https://github.com/balmli/com.nordpoolspot. It fixes a bug that occurs when electricity prices are above 1 000currency/MWh.
 
 # Nordpool
 
@@ -22,7 +22,7 @@ Nordpool Elspot Prices for Athom Homey.
 ### Release Notes
 
 #### 0.2.0
-- Now works for prices above 1 000/MWh
+- Now works for prices above 1 000currency/MWh
 
 #### 0.1.0
 - Blank "starting hour" means 00:00 for "Low price [x] of the [y] hours starting at [z] hours today" - trigger
