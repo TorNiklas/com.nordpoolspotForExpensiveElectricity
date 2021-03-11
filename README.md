@@ -4,7 +4,7 @@ Nordpool Elspot Prices for Athom Homey.
 
 This is a fork of https://github.com/balmli/com.nordpoolspot. It fixes a bug that occurs when electricity prices are above 1 000currency/MWh.
 
-## Flow cards
+## Flow cards 
 
 ### Device: Nordpool
 
